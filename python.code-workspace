@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PillowTest"
+		},
+		{
+			"path": "../ImageCircleTest"
+		}
+	],
+	"settings": {}
+}
