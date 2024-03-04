@@ -10,6 +10,7 @@ def cv_main():
     cascade_path = './opencv-4.8.0/data/haarcascades/'
 
     path = get_file_path()
+    print(path)
     img = cv2.imread(path)
 
     re1 = resize(img)
